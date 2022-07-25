@@ -1,0 +1,1 @@
+We can use a *mutex* to safely access data across multiple goroutines.
