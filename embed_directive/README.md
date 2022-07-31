@@ -1,0 +1,1 @@
+`//go:embed` is a compiler directive that allows programs to include arbitrary files and folders in the Go binary at build time.
